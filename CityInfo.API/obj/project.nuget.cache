@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lHBJveaoay+SyWCn8GOKQl97Aka4ww28HpkSxBR+3bF2fn8s9iuh785RkISugr01jIAheh+8MzAhflkyKf5GSA==",
+  "dgSpecHash": "jybzThwU27ggeCg1YmQR42VfWk6U8Lud/rY+i5Fv7Aq/zS9RxaL2sBt40jsbxWdoL5TW+pC2f3fZtrFqaAADjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jp123\\source\\repos\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+  "projectFilePath": "C:\\Git\\RestWithAspNetCore\\CityInfo.API\\CityInfo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

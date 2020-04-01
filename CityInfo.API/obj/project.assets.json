@@ -11807,11 +11807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jp123\\source\\repos\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+      "projectUniqueName": "C:\\Git\\RestWithAspNetCore\\CityInfo.API\\CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "C:\\Users\\jp123\\source\\repos\\CityInfo\\CityInfo.API\\CityInfo.API.csproj",
+      "projectPath": "C:\\Git\\RestWithAspNetCore\\CityInfo.API\\CityInfo.API.csproj",
       "packagesPath": "C:\\Users\\jp123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jp123\\source\\repos\\CityInfo\\CityInfo.API\\obj\\",
+      "outputPath": "C:\\Git\\RestWithAspNetCore\\CityInfo.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11869,7 +11869,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
