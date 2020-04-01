@@ -1,0 +1,16 @@
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.deps.json
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.runtimeconfig.json
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.runtimeconfig.dev.json
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.dll
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.pdb
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfo.cs
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
+C:\Users\jp123\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
