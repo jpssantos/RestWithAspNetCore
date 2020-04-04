@@ -57,6 +57,14 @@
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.1, )"
             }
           },
           "imports": [
