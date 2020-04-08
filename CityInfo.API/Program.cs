@@ -16,10 +16,10 @@ namespace CityInfo.API
         public static void Main(string[] args)
         {
             var logger = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
-            logger.Info("Initializing application...");
+           
             try
             {
-
+                logger.Info("Initializing application...");
                 CreateWebHostBuilder(args).Build().Run();
             }
             catch (Exception ex)
