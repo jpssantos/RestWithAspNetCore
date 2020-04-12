@@ -15,29 +15,29 @@ namespace CityInfo.API
     {
         public static void Main(string[] args)
         {
-            var logger = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
-           
+            var logger = NLogBuilder
+                    .ConfigureNLog("nlog.config")
+                    .GetCurrentClassLogger();
             try
             {
+
                 logger.Info("Initializing application...");
                 CreateWebHostBuilder(args).Build().Run();
             }
             catch (Exception ex)
             {
                 logger.Error(ex, "Application stopped because of exception.");
-
                 throw;
             }
             finally
             {
                 NLog.LogManager.Shutdown();
             }
-
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
-            .UseNLog();
+                .UseNLog();
     }
 }

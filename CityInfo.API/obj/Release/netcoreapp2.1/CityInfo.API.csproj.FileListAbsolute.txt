@@ -1,0 +1,17 @@
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\nlog.config
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.deps.json
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.runtimeconfig.json
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.runtimeconfig.dev.json
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.dll
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\CityInfo.API.pdb
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.AssemblyInfo.cs
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.dll
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.pdb
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Release\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Release\netcoreapp2.1\appsettings.json

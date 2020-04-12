@@ -6,7 +6,7 @@
   "compilationOptions": {
     "defines": [
       "TRACE",
-      "DEBUG",
+      "RELEASE",
       "NETCOREAPP",
       "NETCOREAPP2_1"
     ],
@@ -14,7 +14,7 @@
     "platform": "",
     "allowUnsafe": false,
     "warningsAsErrors": false,
-    "optimize": false,
+    "optimize": true,
     "keyFile": "",
     "emitEntryPoint": true,
     "xmlDoc": false,
@@ -28,7 +28,7 @@
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0",
           "NLog.Extensions.Logging": "1.6.2",
-          "NLog.Web.AspNetCore": "4.9.0",
+          "NLog.Web.AspNetCore": "4.9.1",
           "System.Diagnostics.Debug": "4.3.0"
         },
         "runtime": {
@@ -65,7 +65,7 @@
           "lib/netstandard2.0/NLog.Extensions.Logging.dll": {}
         }
       },
-      "NLog.Web.AspNetCore/4.9.0": {
+      "NLog.Web.AspNetCore/4.9.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
           "Microsoft.AspNetCore.Http": "2.1.1",
@@ -75,7 +75,7 @@
         "runtime": {
           "lib/netstandard2.0/NLog.Web.AspNetCore.dll": {
             "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.9.0.1511"
+            "fileVersion": "4.9.1.1587"
           }
         },
         "compile": {
@@ -3232,12 +3232,12 @@
       "path": "nlog.extensions.logging/1.6.2",
       "hashPath": "nlog.extensions.logging.1.6.2.nupkg.sha512"
     },
-    "NLog.Web.AspNetCore/4.9.0": {
+    "NLog.Web.AspNetCore/4.9.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lEA+6Xm/DbU+Z6qVbJP1fgP4MvE0amlwXlJj3MyarcassZ/yuIAQIJsiLoJ/NMDFu1Jfh139L8F4mQpB/r5q/g==",
-      "path": "nlog.web.aspnetcore/4.9.0",
-      "hashPath": "nlog.web.aspnetcore.4.9.0.nupkg.sha512"
+      "sha512": "sha512-NQhA/ger1QzCrbXnq8X48Sp9OvjH15QZOx3Hg/W3heaUR5h6Ai3tjO2YFJ4VuX9wYL1FSHWOAa9qe7EcbwMnmQ==",
+      "path": "nlog.web.aspnetcore/4.9.1",
+      "hashPath": "nlog.web.aspnetcore.4.9.1.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

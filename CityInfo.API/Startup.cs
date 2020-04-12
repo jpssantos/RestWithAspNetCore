@@ -18,20 +18,25 @@ namespace CityInfo.API
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().AddMvcOptions(O =>
-            {
-                O.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter());
-            });
-            /*services.AddMvc()
-                .AddJsonOptions(o =>
+            services.AddMvc()
+                .AddMvcOptions(o =>
                 {
-                    if (o.SerializerSettings.ContractResolver != null)
-                    {
-                        var casteResolver = o.SerializerSettings.ContractResolver as DefaultContractResolver;
-                        casteResolver.NamingStrategy = null;
-                    }
-                });*/
-            services.AddTransient<LocalMailServices>();
+                    o.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter());
+                });
+            //.AddJsonOptions(o =>
+            //{
+            //    if (o.SerializerSettings.ContractResolver != null)
+            //    {
+            //        var castedResolver = o.SerializerSettings.ContractResolver
+            //                               as DefaultContractResolver;
+            //        castedResolver.NamingStrategy = null;
+            //    }
+            //});
+#if DEBUG
+            services.AddTransient<IMailService, LocalMailService>();
+#else
+            services.AddTransient<IMailService, CloudMailService>();
+#endif
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,11 +48,12 @@ namespace CityInfo.API
             }
             else
             {
-                app.UseExceptionHandler();
+                app.UseExceptionHandler("/Error");
             }
-            app.UseStatusCodePages();
-            app.UseMvc();
 
+            app.UseStatusCodePages();
+
+            app.UseMvc();
         }
     }
 }

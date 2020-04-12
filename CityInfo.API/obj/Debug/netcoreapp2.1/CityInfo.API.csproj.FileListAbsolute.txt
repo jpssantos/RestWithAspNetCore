@@ -29,8 +29,6 @@ C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.Razo
 C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
 C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
-C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
-C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\CityInfo.API.deps.json
@@ -46,3 +44,7 @@ C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.As
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Git\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.Production.json

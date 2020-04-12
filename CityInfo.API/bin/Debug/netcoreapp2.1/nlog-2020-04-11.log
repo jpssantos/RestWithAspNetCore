@@ -1,0 +1,90 @@
+2020-04-11 21:19:24.6510|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:19:25.6778|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:19:26.0187|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:19:26.3589|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:19:26.3589|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:19:26.3783|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUESKBS4TP", Request id "0HLUUESKBS4TP:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:19:26.3783|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 25.5981ms 500 text/html; charset=utf-8
+2020-04-11 21:19:26.3783|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUESKBS4TQ", Request id "0HLUUESKBS4TQ:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:19:26.3917|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 35.8345ms 500 
+2020-04-11 21:19:26.5684|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/favicon.ico  
+2020-04-11 21:19:26.5759|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 7.7797ms 500 text/html; charset=utf-8
+2020-04-11 21:28:35.9472|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:28:36.9181|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:28:37.2567|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:28:37.5412|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:28:37.5412|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:28:37.5633|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF1OKIQDQ", Request id "0HLUUF1OKIQDQ:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:28:37.5633|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 27.3293ms 500 text/html; charset=utf-8
+2020-04-11 21:28:37.5633|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF1OKIQDR", Request id "0HLUUF1OKIQDR:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:28:37.5758|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 37.3854ms 500 
+2020-04-11 21:29:06.1631|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:29:07.2497|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:29:07.6157|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:29:07.8499|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:29:07.8499|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:29:07.8701|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF21LEHG6", Request id "0HLUUF21LEHG6:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:29:07.8733|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 25.3446ms 500 text/html; charset=utf-8
+2020-04-11 21:29:07.8733|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 28.4368ms 500 
+2020-04-11 21:31:45.6537|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:31:46.7300|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:31:47.0454|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:31:47.4052|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:31:47.4052|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:31:47.4447|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF3H72GH8", Request id "0HLUUF3H72GH8:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:31:47.4447|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 45.3468ms 500 text/html; charset=utf-8
+2020-04-11 21:31:47.4517|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF3H72GH7", Request id "0HLUUF3H72GH7:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:31:47.4517|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 53.8624ms 500 
+2020-04-11 21:34:09.4238|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:34:10.5204|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:34:10.9026|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:34:11.3298|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:34:11.3298|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:34:11.3567|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF4S3RAFA", Request id "0HLUUF4S3RAFA:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:34:11.3567|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33.4117ms 500 
+2020-04-11 21:34:11.3567|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 35.7714ms 500 text/html; charset=utf-8
+2020-04-11 21:34:20.8279|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:15328/api/cities/1/pointsofinterest/2  
+2020-04-11 21:34:20.8279|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 4.4416ms 500 text/html; charset=utf-8
+2020-04-11 21:34:22.0704|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:15328/api/cities/1/pointsofinterest/2  
+2020-04-11 21:34:22.0737|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 3.8998ms 500 text/html; charset=utf-8
+2020-04-11 21:34:28.6974|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:34:28.6999|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2.4678ms 500 text/html; charset=utf-8
+2020-04-11 21:36:41.5504|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:36:42.5814|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:36:42.9506|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:36:43.2453|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:36:43.2453|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:36:43.2681|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF69CECNJ", Request id "0HLUUF69CECNJ:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:36:43.2681|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 28.7443ms 500 text/html; charset=utf-8
+2020-04-11 21:36:43.2774|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF69CECNI", Request id "0HLUUF69CECNI:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:36:43.2774|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 45.92ms 500 
+2020-04-11 21:37:51.1394|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:37:52.0950|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:37:52.4163|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:37:52.6788|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:37:52.6788|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:37:52.6998|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF6U2O3HP", Request id "0HLUUF6U2O3HP:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:37:52.6998|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 28.2292ms 500 
+2020-04-11 21:37:52.6998|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 29.4498ms 500 text/html; charset=utf-8
+2020-04-11 21:41:39.6429|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:41:40.6804|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:41:41.0142|FATAL|Microsoft.AspNetCore.Hosting.Internal.WebHost|Application startup exception
+2020-04-11 21:41:41.2476|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:41:41.2476|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:41:41.2803|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF926HCAN", Request id "0HLUUF926HCAN:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:41:41.2803|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 39.2831ms 500 text/html; charset=utf-8
+2020-04-11 21:41:41.2803|ERROR|Microsoft.AspNetCore.Server.Kestrel|Connection id "0HLUUF926HCAO", Request id "0HLUUF926HCAO:00000001": An unhandled exception was thrown by the application.
+2020-04-11 21:41:41.2946|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 49.9976ms 500 
+2020-04-11 21:43:29.7869|INFO|CityInfo.API.Program|Initializing application...
+2020-04-11 21:43:30.7677|INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\jp123\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-04-11 21:43:31.3084|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:15328/  0
+2020-04-11 21:43:31.3084|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:15328/  
+2020-04-11 21:43:31.3577|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 48.8564ms 200 
+2020-04-11 21:43:31.5158|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 210.1064ms 404 text/plain
+2020-04-11 21:43:41.3815|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DELETE http://localhost:15328/api/cities/1/pointsofinterest/2  
+2020-04-11 21:43:41.4618|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Route matched with {action = "DeletePointOfInterest", controller = "PointsOfInterest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult DeletePointOfInterest(Int32, Int32) on controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API).
+2020-04-11 21:43:41.5003|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API) - Validation state: Valid
+2020-04-11 21:43:41.5203|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action method CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API), returned result Microsoft.AspNetCore.Mvc.NoContentResult in 12.5706ms.
+2020-04-11 21:43:41.5302|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 204
+2020-04-11 21:43:41.5302|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API) in 68.8021ms
+2020-04-11 21:43:41.5436|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 161.1234ms 204 

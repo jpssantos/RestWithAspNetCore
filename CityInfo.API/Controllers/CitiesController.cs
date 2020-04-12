@@ -1,5 +1,4 @@
-﻿using CityInfo.API.models;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +10,7 @@ namespace CityInfo.API.Controllers
     [Route("api/cities")]
     public class CitiesController : ControllerBase
     {
-        [HttpGet()]
+        [HttpGet]
         public IActionResult GetCities()
         {
             return Ok(CitiesDataStore.Current.Cities);
@@ -20,14 +19,16 @@ namespace CityInfo.API.Controllers
         [HttpGet("{id}")]
         public IActionResult GetCity(int id)
         {
-            var cityReturn = CitiesDataStore.Current.Cities.FirstOrDefault(c => c.Id == id);
-            if (cityReturn == null)
+            // find city
+            var cityToReturn = CitiesDataStore.Current.Cities
+                .FirstOrDefault(c => c.Id == id);
+
+            if (cityToReturn == null)
             {
                 return NotFound();
             }
 
-            return Ok(cityReturn);
+            return Ok(cityToReturn);
         }
-       
     }
 }
