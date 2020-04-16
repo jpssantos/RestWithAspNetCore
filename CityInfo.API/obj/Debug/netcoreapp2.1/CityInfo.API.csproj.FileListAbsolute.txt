@@ -45,6 +45,6 @@ C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.Ra
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\JPGIT\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
 C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
-C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
 C:\Git\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.json
 C:\Git\RestWithAspNetCore\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.Production.json
+C:\Git\RestWithAspNetCore\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
