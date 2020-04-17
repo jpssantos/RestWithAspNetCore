@@ -15,7 +15,7 @@ using NLog.Web;
 namespace CityInfo.API
 {
     public class Program
-    {
+    { 
         public static void Main(string[] args)
         {
             var logger = NLogBuilder
