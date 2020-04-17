@@ -41,7 +41,7 @@ namespace CityInfo.API
                 }
                 host.Run();
             }
-            catch (Exception ex)
+            catch (Exception ex) 
             {
                 logger.Error(ex, "Application stopped because of exception.");
                 throw;
