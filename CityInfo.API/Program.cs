@@ -20,7 +20,7 @@ namespace CityInfo.API
         {
             var logger = NLogBuilder
                     .ConfigureNLog("nlog.config")
-                    .GetCurrentClassLogger(); 
+                    .GetCurrentClassLogger();
             try
             {
 
