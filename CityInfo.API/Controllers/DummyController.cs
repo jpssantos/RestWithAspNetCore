@@ -14,7 +14,7 @@ namespace CityInfo.API.Controllers
         private CityInfoContex _ctx;
 
         public DummyController(CityInfoContex ctx)
-        {
+        { 
             _ctx = ctx ?? throw new ArgumentNullException(nameof(ctx));
 
         }
